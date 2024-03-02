@@ -1,24 +1,24 @@
-@abied-ch 42 projects
-
+# @abied-ch 42 projects
+## milestone 1
 [libft](https://github.com/42-project-tracking/libft)
-
+## milestone 2
 [ft_printf](https://github.com/42-project-tracking/ft_printf)
 
 [get_next_line](https://github.com/42-project-tracking/get_next_line)
-
+## milestone 3
 [push_swap](https://github.com/42-project-tracking/push_swap)
 
 [pipex](https://github.com/42-project-tracking/pipex)
 
 [fdf](https://github.com/42-project-tracking/fdf)
-
+## milestone 3
 [Philosophers](https://github.com/42-project-tracking/Philosophers)
 
 [minishell](https://github.com/42-project-tracking/minishell)
 
 [cub3d](https://github.com/42-project-tracking/cub3d)
 
-# cpp-modules
+## cpp-modules
 [cpp00](https://github.com/42-project-tracking/cpp-modules/cpp00)
 
 [cpp01](https://github.com/42-project-tracking/cpp-modules/cpp01)
