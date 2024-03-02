@@ -1,21 +1,38 @@
 # @abied-ch 42 projects
 ## milestone 1
 ### [libft](https://github.com/42-project-tracking/libft)
-utility function library
+**write a utility functions library**
 * skills: 
   * algorithms
   * memory management
 ## milestone 2
 ### [ft_printf](https://github.com/42-project-tracking/ft_printf) 
- * recode a simple version of the printf function 
-* [get_next_line](https://github.com/42-project-tracking/get_next_line)
- * 
+**rewrite a simple version of the printf function**
+* skills:
+ * variadic functions
+### [get_next_line](https://github.com/42-project-tracking/get_next_line)
+**write a function that returns the next line of a file on each call**
+* skills:
+ * static variables
+ * memory management
+ * strings
 ## milestone 3
-[push_swap](https://github.com/42-project-tracking/push_swap)
-
-[pipex](https://github.com/42-project-tracking/pipex)
-
-[fdf](https://github.com/42-project-tracking/fdf)
+### [push_swap](https://github.com/42-project-tracking/push_swap)
+**write a sorting algorithm in 'push_swap' language**
+* skills:
+  * algorithms
+  * linked lists
+### [pipex](https://github.com/42-project-tracking/pipex)
+**write a program that emulates the behavior of the bash pipe, input & output redirection**
+* skills:
+ * multiprocessing
+ * file descriptors
+ * bash
+### [fdf](https://github.com/42-project-tracking/fdf)
+**write a wireframe 3d renderer**
+* skills:
+ * algorithms
+ * drawing/rendering
 ## milestone 3
 [Philosophers](https://github.com/42-project-tracking/Philosophers)
 
