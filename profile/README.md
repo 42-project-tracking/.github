@@ -1,45 +1,45 @@
 # @abied-ch 42 projects
 ## milestone 1
-### [libft](https://github.com/42-project-tracking/libft)
+### [libft](https://github.com/42-projects-abied-ch/libft)
 **write a utility functions library**
 * skills: 
   * algorithms
   * memory management
 ## milestone 2
-### [ft_printf](https://github.com/42-project-tracking/ft_printf) 
+### [ft_printf](https://github.com/42-projects-abied-ch/ft_printf) 
 **rewrite a simple version of the printf function**
 * skills:
  * variadic functions
-### [get_next_line](https://github.com/42-project-tracking/get_next_line)
+### [get_next_line](https://github.com/42-projects-abied-ch/get_next_line)
 **write a function that returns the next line of a file on each call**
 * skills:
  * static variables
  * memory management
  * strings
 ## milestone 3
-### [push_swap](https://github.com/42-project-tracking/push_swap)
+### [push_swap](https://github.com/42-projects-abied-ch/push_swap)
 **write a sorting algorithm in 'push_swap' language**
 * skills:
   * algorithms
   * linked lists
-### [pipex](https://github.com/42-project-tracking/pipex)
+### [pipex](https://github.com/42-projects-abied-ch/pipex)
 **write a program that emulates the behavior of the bash pipe, input & output redirection**
 * skills:
   * multiprocessing
   * file descriptors
   * bash
-### [fdf](https://github.com/42-project-tracking/fdf)
+### [fdf](https://github.com/42-projects-abied-ch/fdf)
 **write a wireframe 3d renderer**
 * skills:
   * algorithms
   * 3d rendering/drawing
 ## milestone 3
-### [Philosophers](https://github.com/42-project-tracking/Philosophers)
+### [Philosophers](https://github.com/42-projects-abied-ch/Philosophers)
 **solve the 'dining philosophers problem'**
 * skills:
    * multi-threading
    * mutexes
-### [minishell](https://github.com/42-project-tracking/minishell)
+### [minishell](https://github.com/42-projects-abied-ch/minishell)
 **write a simple bash interpreter**
 * skills:
    * bash
@@ -49,7 +49,7 @@
    * file handling
    * input validation
 ## milestone 4
-### [cub3d](https://github.com/42-project-tracking/cub3d)
+### [cub3d](https://github.com/42-projects-abied-ch/cub3d)
 **implement a raycasting engine**
 * skills:
    * raycasting algorithm
@@ -57,40 +57,40 @@
    * parsing
    * input validation
 ## cpp-modules
-### [cpp00](https://github.com/42-project-tracking/cpp-modules/cpp00)
+### [cpp00](https://github.com/42-projects-abied-ch/cpp-modules/cpp00)
 **introduction to object-oriented programming**
-### [cpp01](https://github.com/42-project-tracking/cpp-modules/cpp01)
+### [cpp01](https://github.com/42-projects-abied-ch/cpp-modules/cpp01)
 * skills
    * classes
    * C++ memory management
-### [cpp02](https://github.com/42-project-tracking/cpp-modules/cpp02)
+### [cpp02](https://github.com/42-projects-abied-ch/cpp-modules/cpp02)
 * skills:
    * ad-hoc polymorphism
    * operator overloading
    * orthodox canonical form
-### [cpp03](https://github.com/42-project-tracking/cpp-modules/cpp03)
+### [cpp03](https://github.com/42-projects-abied-ch/cpp-modules/cpp03)
 * skills:
    * class inheritance
    * diamond inheritance
-### [cpp04](https://github.com/42-project-tracking/cpp-modules/cpp04)
+### [cpp04](https://github.com/42-projects-abied-ch/cpp-modules/cpp04)
 * skills:
    * subtype polymorphism
    * abstract classes
-### [cpp05](https://github.com/42-project-tracking/cpp-modules/cpp05)
+### [cpp05](https://github.com/42-projects-abied-ch/cpp-modules/cpp05)
 * skills:
    * exception handling
-### [cpp06](https://github.com/42-project-tracking/cpp-modules/cpp06)
+### [cpp06](https://github.com/42-projects-abied-ch/cpp-modules/cpp06)
 * skills:
    * C++ casts
-### [cpp07](https://github.com/42-project-tracking/cpp-modules/cpp07)
+### [cpp07](https://github.com/42-projects-abied-ch/cpp-modules/cpp07)
 * skills:
    * C++ templates
-### [cpp08](https://github.com/42-project-tracking/cpp-modules/cpp08)
+### [cpp08](https://github.com/42-projects-abied-ch/cpp-modules/cpp08)
 * skills:
    * templated containers
    * iterators
    * algorithms
-### [cpp09](https://github.com/42-project-tracking/cpp-modules/cpp09)
+### [cpp09](https://github.com/42-projects-abied-ch/cpp-modules/cpp09)
 * skills:
    * parsing
    * exception handling
@@ -101,8 +101,10 @@
       * deque
    * complexity analysis
 # milestone 5
-### [inception (in progress)](https://github.com/42-project-tracking/inception)
+### [inception (in progress)](https://github.com/42-projects-abied-ch/inception)
 * skills:
    * docker
-### [webserv (in progress)](https://github.com/42-project-tracking/webserv)
+### [webserv (in progress)](https://github.com/42-projects-abied-ch/webserv)
 **implement a HTTP/1.1 server in C++98**
+# rushes
+### [wordle](https://github.com/42-projects-abied-ch/wordle)
