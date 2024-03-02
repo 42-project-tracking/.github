@@ -31,11 +31,14 @@
 ### [fdf](https://github.com/42-project-tracking/fdf)
 **write a wireframe 3d renderer**
 * skills:
- * algorithms
- * drawing/rendering
+  * algorithms
+  * drawing/rendering
 ## milestone 3
 [Philosophers](https://github.com/42-project-tracking/Philosophers)
-
+**solve the 'dining philosophers problem'**
+* skilss:
+   * multithreading
+   * mutexes
 [minishell](https://github.com/42-project-tracking/minishell)
 ## milestone 4
 [cub3d](https://github.com/42-project-tracking/cub3d)
