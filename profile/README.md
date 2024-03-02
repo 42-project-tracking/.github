@@ -32,16 +32,30 @@
 **write a wireframe 3d renderer**
 * skills:
   * algorithms
-  * drawing/rendering
+  * 3d rendering/drawing
 ## milestone 3
-[Philosophers](https://github.com/42-project-tracking/Philosophers)
+### [Philosophers](https://github.com/42-project-tracking/Philosophers)
 **solve the 'dining philosophers problem'**
-* skilss:
-   * multithreading
+* skills:
+   * multi-threading
    * mutexes
-[minishell](https://github.com/42-project-tracking/minishell)
+### [minishell](https://github.com/42-project-tracking/minishell)
+**write a simple bash interpreter**
+* skills:
+   * bash
+   * parsing
+   * memory management
+   * multi-processing
+   * file handling
+   * input validation
 ## milestone 4
-[cub3d](https://github.com/42-project-tracking/cub3d)
+### [cub3d](https://github.com/42-project-tracking/cub3d)
+**implement a raycasting engine**
+* skills:
+   * raycasting algorithm
+   * 3d rendering/drawing
+   * parsing
+   * input validation
 ## cpp-modules
 [cpp00](https://github.com/42-project-tracking/cpp-modules/cpp00)
 
