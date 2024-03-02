@@ -1,6 +1,7 @@
 # @abied-ch 42 projects
 ## milestone 1
-[libft](https://github.com/42-project-tracking/libft)
+* [libft](https://github.com/42-project-tracking/libft)
+  * utility function library 
 ## milestone 2
 [ft_printf](https://github.com/42-project-tracking/ft_printf)
 
