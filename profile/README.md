@@ -1,6 +1,6 @@
 # @abied-ch 42 projects
 ## milestone 1
-### [libft](https://github.com/42-project-tracking/libft)
+#### [libft](https://github.com/42-project-tracking/libft)
 **write a utility functions library**
 * skills: 
   * algorithms
@@ -57,7 +57,7 @@
    * parsing
    * input validation
 ## cpp-modules
-[cpp00](https://github.com/42-project-tracking/cpp-modules/cpp00)
+### [cpp00](https://github.com/42-project-tracking/cpp-modules/cpp00)
 
 [cpp01](https://github.com/42-project-tracking/cpp-modules/cpp01)
 
