@@ -25,9 +25,9 @@
 ### [pipex](https://github.com/42-project-tracking/pipex)
 **write a program that emulates the behavior of the bash pipe, input & output redirection**
 * skills:
- * multiprocessing
- * file descriptors
- * bash
+  * multiprocessing
+  * file descriptors
+  * bash
 ### [fdf](https://github.com/42-project-tracking/fdf)
 **write a wireframe 3d renderer**
 * skills:
