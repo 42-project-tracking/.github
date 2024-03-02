@@ -1,7 +1,10 @@
 # @abied-ch 42 projects
 ## milestone 1
-* [libft](https://github.com/42-project-tracking/libft)
- * utility function library 
+### [libft](https://github.com/42-project-tracking/libft)
+utility function library
+* skills: 
+  * algorithms
+  * memory management
 ## milestone 2
 ### [ft_printf](https://github.com/42-project-tracking/ft_printf) 
  * recode a simple version of the printf function 
