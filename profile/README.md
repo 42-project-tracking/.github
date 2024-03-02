@@ -9,13 +9,13 @@
 ### [ft_printf](https://github.com/42-projects-abied-ch/ft_printf) 
 **rewrite a simple version of the printf function**
 * skills:
- * variadic functions
+  * variadic functions
 ### [get_next_line](https://github.com/42-projects-abied-ch/get_next_line)
 **write a function that returns the next line of a file on each call**
 * skills:
- * static variables
- * memory management
- * strings
+  * static variables
+  * memory management
+  * strings
 ## milestone 3
 ### [push_swap](https://github.com/42-projects-abied-ch/push_swap)
 **write a sorting algorithm in 'push_swap' language**
