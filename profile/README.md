@@ -15,9 +15,8 @@
 [Philosophers](https://github.com/42-project-tracking/Philosophers)
 
 [minishell](https://github.com/42-project-tracking/minishell)
-
+## milestone 4
 [cub3d](https://github.com/42-project-tracking/cub3d)
-
 ## cpp-modules
 [cpp00](https://github.com/42-project-tracking/cpp-modules/cpp00)
 
@@ -38,7 +37,7 @@
 [cpp08](https://github.com/42-project-tracking/cpp-modules/cpp08)
 
 [cpp09](https://github.com/42-project-tracking/cpp-modules/cpp09)
-
+# milestone 5
 [inception (in progress)](https://github.com/42-project-tracking/inception)
 
 [webserv (in progress)](https://github.com/42-project-tracking/webserv)
