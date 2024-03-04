@@ -57,7 +57,7 @@
    * parsing
    * input validation
 ## cpp-modules
-### [cpp00](https://github.com/42-projects-abied-ch/cpp-modules/cpp00)
+### [cpp00](https://github.com/42-projects-abied-ch/cpp-modules/tree/main/cpp00)
 **introduction to object-oriented programming**
 ### [cpp01](https://github.com/42-projects-abied-ch/cpp-modules/cpp01)
 * skills
