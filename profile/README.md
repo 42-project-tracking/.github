@@ -59,38 +59,38 @@
 ## cpp-modules
 ### [cpp00](https://github.com/42-projects-abied-ch/cpp-modules/tree/main/cpp00)
 **introduction to object-oriented programming**
-### [cpp01](https://github.com/42-projects-abied-ch/cpp-modules/cpp01)
+### [cpp01](https://github.com/42-projects-abied-ch/cpp-modules/tree/main/cpp01)
 * skills
    * classes
    * C++ memory management
-### [cpp02](https://github.com/42-projects-abied-ch/cpp-modules/cpp02)
+### [cpp02](https://github.com/42-projects-abied-ch/cpp-modules/tree/main/cpp02)
 * skills:
    * ad-hoc polymorphism
    * operator overloading
    * orthodox canonical form
-### [cpp03](https://github.com/42-projects-abied-ch/cpp-modules/cpp03)
+### [cpp03](https://github.com/42-projects-abied-ch/cpp-modules/tree/main/cpp03)
 * skills:
    * class inheritance
    * diamond inheritance
-### [cpp04](https://github.com/42-projects-abied-ch/cpp-modules/cpp04)
+### [cpp04](https://github.com/42-projects-abied-ch/cpp-modules/tree/main/cpp04)
 * skills:
    * subtype polymorphism
    * abstract classes
-### [cpp05](https://github.com/42-projects-abied-ch/cpp-modules/cpp05)
+### [cpp05](https://github.com/42-projects-abied-ch/cpp-modules/tree/main/cpp05)
 * skills:
    * exception handling
-### [cpp06](https://github.com/42-projects-abied-ch/cpp-modules/cpp06)
+### [cpp06](https://github.com/42-projects-abied-ch/cpp-modules/tree/main/cpp06)
 * skills:
    * C++ casts
-### [cpp07](https://github.com/42-projects-abied-ch/cpp-modules/cpp07)
+### [cpp07](https://github.com/42-projects-abied-ch/cpp-modules/tree/main/cpp07)
 * skills:
    * C++ templates
-### [cpp08](https://github.com/42-projects-abied-ch/cpp-modules/cpp08)
+### [cpp08](https://github.com/42-projects-abied-ch/cpp-modules/tree/main/cpp08)
 * skills:
    * templated containers
    * iterators
    * algorithms
-### [cpp09]((https://github.com/42-projects-abied-ch/cpp-modules/tree/main/cpp09))
+### [cpp09](https://github.com/42-projects-abied-ch/cpp-modules/tree/main/cpp09)
 * skills:
    * parsing
    * exception handling
