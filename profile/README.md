@@ -105,7 +105,7 @@
 * skills:
    * docker
    * networking
-### [webserv (in progress)](https://github.com/42-projects-abied-ch/webserv)
+### [webserv](https://github.com/42-projects-abied-ch/webserv)
 * skills:
    * parsing
    * data structures
