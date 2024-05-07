@@ -106,11 +106,18 @@
    * docker
    * networking
 ### [webserv (in progress)](https://github.com/42-projects-abied-ch/webserv)
-* skills
+* skills:
    * parsing
    * data structures
    * algorithm
-   * HTTP  
+   * HTTP
+## milestone 6
+### [ft_transcendence](https://github.com/LuckyIntegral/ft_transcendence) (in progress)
+* skills:
+   * web
+   * bootstrap
+   * javascript
+   * django
 ## rushes
 ### [wordle](https://github.com/42-projects-abied-ch/wordle)
 ### [Retro-MFA](https://github.com/42-projects-abied-ch/Retro-MFA)
