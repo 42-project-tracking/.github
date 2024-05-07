@@ -104,8 +104,13 @@
 ### [inception](https://github.com/42-projects-abied-ch/inception)
 * skills:
    * docker
+   * networking
 ### [webserv (in progress)](https://github.com/42-projects-abied-ch/webserv)
-**implement a HTTP/1.1 server in C++98**
+* skills
+   * parsing
+   * data structures
+   * algorithm
+   * HTTP  
 ## rushes
 ### [wordle](https://github.com/42-projects-abied-ch/wordle)
 ### [Retro-MFA](https://github.com/42-projects-abied-ch/Retro-MFA)
