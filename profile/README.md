@@ -122,7 +122,7 @@
 ### [wordle](https://github.com/abied-ch/wordle)
 ### [Retro-MFA](https://github.com/abied-ch/Retro-MFA)
 ## Post-Common Core
-## Data Science/AI branch
+## Algo & AI & Data
 ### [ft_linear_regression](https://github.com/abied-ch/ft_linear_regression)
 * Skills:
    * Linear regression
@@ -133,3 +133,4 @@
    * Logistic regression
    * Data visualization
    * Python
+## Development
