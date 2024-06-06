@@ -134,3 +134,9 @@
    * Data visualization
    * Python
 ## Development
+### [Piscine-Object](https://github.com/abied-ch/Piscine-Object)
+* Skills:
+   * Object Oriented Programming
+   * Design patterns
+## Cryptography & Maths 
+### computorv1
