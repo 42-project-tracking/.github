@@ -133,6 +133,12 @@
    * Logistic regression
    * Data visualization
    * Python
+### [multilayer-perceptron](https://github.com/abied-ch/mutilayer-perceptron) (in progress)
+* Skills:
+   * Neural Networks
+   * Gradient Descent
+   * Backpropagation
+   * NumPy
 ## Development
 ### [Piscine-Object](https://github.com/abied-ch/Piscine-Object)
 * Skills:
