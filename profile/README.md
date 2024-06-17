@@ -112,7 +112,7 @@
    * Algorithm
    * HTTP
 ## Milestone 6
-### [ft_transcendence](https://github.com/LuckyIntegral/ft_transcendence) (in progress)
+### [ft_transcendence](https://github.com/LuckyIntegral/ft_transcendence)
 * Skills:
    * Web
    * Bootstrap
@@ -133,7 +133,7 @@
    * Logistic regression
    * Data visualization
    * Python
-### [multilayer-perceptron](https://github.com/abied-ch/mutilayer-perceptron) (in progress)
+### [multilayer-perceptron](https://github.com/abied-ch/multilayer-perceptron) (in progress)
 * Skills:
    * Neural Networks
    * Gradient Descent
