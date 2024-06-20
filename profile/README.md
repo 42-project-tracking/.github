@@ -133,7 +133,7 @@
    * Logistic regression
    * Data visualization
    * Python
-### [multilayer-perceptron](https://github.com/abied-ch/multilayer-perceptron) (in progress)
+### [multilayer-perceptron](https://github.com/abied-ch/multilayer-perceptron)
 * Skills:
    * Neural Networks
    * Gradient Descent
