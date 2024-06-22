@@ -105,7 +105,7 @@
 * Skills:
    * Docker
    * Networking
-### [webserv](https://github.com/abied-ch/webserv)
+### [webserv](https://github.com/winstonallo/webserv)
 * Skills:
    * Parsing
    * Data structures
@@ -133,7 +133,7 @@
    * Logistic regression
    * Data visualization
    * Python
-### [multilayer-perceptron](https://github.com/abied-ch/multilayer-perceptron)
+### [multilayer-perceptron](https://github.com/winstonallo/multilayer-perceptron)
 * Skills:
    * Neural Networks
    * Gradient Descent
