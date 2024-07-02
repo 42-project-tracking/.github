@@ -128,14 +128,14 @@
    * Linear regression
    * Data visualization
    * Python
-### [dslr](https://github.com/abied-ch/dslr) (in progress)
+### [dslr](https://github.com/abied-ch/dslr)
 * Skills:
    * Logistic regression
    * Data visualization
    * Python
 ### [multilayer-perceptron](https://github.com/winstonallo/multilayer-perceptron)
 * Skills:
-   * Neural Networks
+   * Neural Networks (MLP)
    * Gradient Descent
    * Backpropagation
    * NumPy
