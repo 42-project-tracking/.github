@@ -1,12 +1,12 @@
 # @abied-ch 42 projects
 ## Milestone 0
 ### [libft](https://github.com/abied-ch/libft)
-**write a utility functions library**
+**Write a utility functions library**
 ## Milestone 1
 ### [ft_printf](https://github.com/abied-ch/ft_printf) 
 **Rewrite a simple version of the C function printf.**
 ### [get_next_line](https://github.com/abied-ch/get_next_line)
-**write a function that returns the next line of a file on each call**
+**Write a function that returns the next line of a file on each call**
 ## Milestone 2
 ### [push_swap](https://github.com/abied-ch/push_swap)
 **Write a sorting algorithm in 'push_swap' language**
@@ -36,9 +36,12 @@
 ### [cpp09](https://github.com/abied-ch/cpp-modules/tree/main/cpp09)
 ## Milestone 5
 ### [inception](https://github.com/abied-ch/inception)
+**Docker Compose, Networking**
 ### [webserv](https://github.com/winstonallo/webserv)
+**HTTP/1.1 compliant webserver in C++98**
 ## Milestone 6
 ### [ft_transcendence](https://github.com/LuckyIntegral/ft_transcendence)
+**Full-Stack web project with real-time multiplayer functionality using websockets**
 ## Rushes
 ### [wordle](https://github.com/abied-ch/wordle)
 ### [Retro-MFA](https://github.com/abied-ch/Retro-MFA)
